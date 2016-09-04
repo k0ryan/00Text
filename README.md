@@ -1,5 +1,5 @@
 # 00Text
-[3ds Homebrew] Text editor with an old mobile phone like keyboard. 
+[3ds Homebrew] Open Source text editor with an old mobile phone like keyboard. 
 
 # Instructions
 
