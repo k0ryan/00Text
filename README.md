@@ -1,5 +1,5 @@
 # 00Text
-[3ds Homebrew] Open Source text editor with an old mobile phone like keyboard. 
+[3ds Homebrew] Open Source text editor with an old mobile phone like keyboard. To use it just take the 00Text folder and put it with your other homebrews (3ds folder in your sd).
 
 # Instructions
 
